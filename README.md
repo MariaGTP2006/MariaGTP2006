@@ -10,6 +10,7 @@
 <p>𓆩ꨄ︎𓆪 Estudiante de ingeniería en TI</p>
 <p>𓆩ꨄ︎𓆪 6to semestre (actualmente en estadía profesional)</p>
 <p>𓆩ꨄ︎𓆪 19 años</p>
+<p>𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆.˚✮🎧✮˚.⋆⋆ ִֶָ˖·˳˖𓂃 ִֶָ</p>
 <h2> I work with: </h2>
 
 <a href="https://graphql.org" target="_blank">
