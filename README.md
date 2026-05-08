@@ -7,9 +7,9 @@
 </p>
 
   <p>𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆.˚✮🎧✮˚.⋆⋆ ִֶָ˖·˳˖𓂃 ִֶָ</p>
-<p>𓆩ꨄ︎𓆪 IT Engineering Student</p>
 <p>𓆩ꨄ︎𓆪 CCNA Candidate | Red Team Security Enthusiast</p>
-<p>𓆩ꨄ︎𓆪 DSM • network infrastructure • Cybersecurity</p>
+<p>𓆩ꨄ︎𓆪 Professional Intern @ EEE de México</p>
+<p>𓆩ꨄ︎𓆪 Linux  |  Networking | Cybersecurity</p>
 <p>𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆.˚✮🎧✮˚.⋆⋆ ִֶָ˖·˳˖𓂃 ִֶָ</p>
 <h2> I work with: </h2>
 
