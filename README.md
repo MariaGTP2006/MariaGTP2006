@@ -15,18 +15,22 @@
 <a href="https://graphql.org" target="_blank">
   <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./parrot.svg" />
 </a>
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./ubuntu.svg" />
+</a>
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="50px" src="./redhat.svg" />
+</a>
 <a href="https://www.typescriptlang.org" target="_blank">
   <img align="left" title="Typescript" alt="Typescript" width="40px" src="./typescript-logo.svg" />
 </a>
 <a href="https://pt-br.reactjs.org" target="_blank">
  <img align="left" title="React and React Native" alt="React and React Native" width="40px" src="./react-logo.svg" />
 </a>
+
+<a href="https://graphql.org" target="_blank">
+  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./mysql.svg" />
+</a>
 <a href="https://graphql.org" target="_blank">
   <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./graphql-logo.svg" />
-</a>
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./ubuntu.svg" />
-</a>
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./redhat.svg" />
 </a>
