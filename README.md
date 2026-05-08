@@ -7,9 +7,9 @@
 </p>
 
   <p>𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆.˚✮🎧✮˚.⋆⋆ ִֶָ˖·˳˖𓂃 ִֶָ</p>
-<p>𓆩ꨄ︎𓆪 Estudiante de ingeniería en TI</p>
-<p>𓆩ꨄ︎𓆪 6to semestre (actualmente en estadía profesional)</p>
-<p>𓆩ꨄ︎𓆪 19 años</p>
+<p>𓆩ꨄ︎𓆪 IT Engineering Student</p>
+<p>𓆩ꨄ︎𓆪 CCNA Candidate | Red Team Security Enthusiast</p>
+<p>𓆩ꨄ︎𓆪 DSM • network infrastructure • Cybersecurity</p>
 <p>𓂃˖˳·˖ ִֶָ ⋆🌷͙⋆.˚✮🎧✮˚.⋆⋆ ִֶָ˖·˳˖𓂃 ִֶָ</p>
 <h2> I work with: </h2>
 
