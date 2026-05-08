@@ -31,6 +31,3 @@
 <a href="https://graphql.org" target="_blank">
   <img align="left" title="GraphQL" alt="GraphQL" width="40px" src="./graphql-logo.svg" />
 </a>
-<a href="https://graphql.org" target="_blank">
-  <img align="left" title="GraphQL" alt="GraphQL" width="90px" src="./mysql.svg" />
-</a>
